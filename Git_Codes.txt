@@ -10,6 +10,9 @@ git status
 Take folder, turn it into repo
 git init
 
+Pull files from Origin/GitHub:
+git pull
+
 Add a file to repo
 git add file.ext
 git add *
